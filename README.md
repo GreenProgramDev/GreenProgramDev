@@ -11,7 +11,7 @@
  
  <br>
  
-  ### Pra conhecer um pouco mais quem sou, sigam o "intagram e o linkedin" abaixo!
+  ### Em busca de novos desafios e oportunidades na área de programação.  Tenho 12 anos de experiência em diversos setores da área de comunicação visual, marketing e publicidade e atualmente estou me qualificando no setor de Programação e quero  conseguir uma oportunidade no mercado nesta área.
  
 <div>
     <a href="https://instagram.com/lima.ceo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a> 
