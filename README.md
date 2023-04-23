@@ -5,6 +5,7 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=GreenProgramDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenProgramDev&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+  <br><br>
 <div align="center" display="flex">
  
   <img align="center" alt="Js" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
@@ -29,7 +30,7 @@
   <a  href="https://www.linkedin.com/in/greendev/" target="_blank">
     <img align="center" alt="CSS" height="30"  width="120"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:greenprogramdev@gmail.com" target="_blank">
-    <img align="center" alt="CSS" height="30" width="120"  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style='border-radius: 4px !important' destino="_blank"></a>
+    <img align="center" alt="CSS" height="30" width="120" style='border-radius: 4px !important'  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino="_blank"></a>
  </div>
   
   ![Animação de cobra](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
