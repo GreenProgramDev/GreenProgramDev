@@ -1,11 +1,11 @@
 
 
-<div>
+<div align="center">
   <a href="https://github.com/oneprogramm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oneprogramm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneprogramm&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
   <br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
   
@@ -21,7 +21,7 @@
 
 Experienced professional in visual communication, marketing and advertising, with 12 years of experience in several sectors. I am currently qualifying in the programming area and looking for an opportunity to break into the market as a front-end developer.
 
-  <div style="display: flex; gap: 5px" >
+  <div align="center" display: "flex" gap: "5px" >
     <a href= "https://www.instagram.com/lima.ceo/" target="_blank">
       <img align="center" alt="CSS" height="20" width="70" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a> 
 
