@@ -23,7 +23,8 @@
 <h2>Experienced professional in visual communication, marketing and advertising, with 12 years of experience in several sectors. I am currently qualifying in the programming area and looking for an opportunity to break into the market as a front-end developer.</h2>
   </div>
    
-  <div align="center" display="flex" gap="3rem" >
+  <div classeName="redSocial" align="center" display="flex" gap="3rem" >
+  <style> .redSocial{gap:3rem, } </style>
     <a href= "https://www.instagram.com/lima.ceo/" target="_blank">
       <img align="center" alt="CSS" height="30" width="120" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a  href="https://www.linkedin.com/in/greendev/" target="_blank">
