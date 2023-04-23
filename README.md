@@ -16,11 +16,12 @@
 </div>
  
  <br>
- 
+ <div align="center">
   ### Always looking for a new opportunity to learn!
 
 Experienced professional in visual communication, marketing and advertising, with 12 years of experience in several sectors. I am currently qualifying in the programming area and looking for an opportunity to break into the market as a front-end developer.
-
+  </div>
+   
   <div align="center" display: "flex" gap: "5px" >
     <a href= "https://www.instagram.com/lima.ceo/" target="_blank">
       <img align="center" alt="CSS" height="20" width="70" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a> 
