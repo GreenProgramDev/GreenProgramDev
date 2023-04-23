@@ -25,9 +25,9 @@
    
   <div align="center" display="flex" gap="3rem" >  
     <a href= "https://www.instagram.com/lima.ceo/" target="_blank">
-      <img align="center" alt="CSS" height="30" width="120" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a> 
+      <img align="center" alt="CSS" height="30" width="120" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a> &#160;
     <a  href="https://www.linkedin.com/in/greendev/" target="_blank">
-      <img align="center" alt="CSS" height="30"  width="120"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <img align="center" alt="CSS" height="30"  width="120"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &#160;&#160;
     <a href = "mailto:greenprogramdev@gmail.com" target="_blank">
       <img align="center" alt="CSS" height="30" width="120" style="border-radius: 4px !important"  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
