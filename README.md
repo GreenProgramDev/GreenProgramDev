@@ -17,9 +17,9 @@
  
  <br>
  <div align="center">
-  ### Always looking for a new opportunity to learn!
+   <h1>Always looking for a new opportunity to learn!</h1>
 
-Experienced professional in visual communication, marketing and advertising, with 12 years of experience in several sectors. I am currently qualifying in the programming area and looking for an opportunity to break into the market as a front-end developer.
+<h2>Experienced professional in visual communication, marketing and advertising, with 12 years of experience in several sectors. I am currently qualifying in the programming area and looking for an opportunity to break into the market as a front-end developer.</h2>
   </div>
    
   <div align="center" display: "flex" gap: "5px" >
