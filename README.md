@@ -20,7 +20,7 @@
 Experienced professional in visual communication, marketing and advertising, with 12 years of experience in several sectors. I am currently qualifying in the programming area and looking for an opportunity to break into the market as a front-end developer.
  
 <div>
-    <a href="https://instagram.com/lima.ceo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a> 
+    <a href="https://www.instagram.com/lima.ceo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a> 
   
   <a href="https://www.linkedin.com/in/greendev;" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
   <a href = "mailto:greenprogramdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style='border-radius: 4px !important' destino="_blank"></a>
