@@ -11,7 +11,9 @@
  
  <br>
  
-  ### Em busca de novos desafios e oportunidades na área de programação.  Tenho 12 anos de experiência em diversos setores da área de comunicação visual, marketing e publicidade e atualmente estou me qualificando no setor de Programação e quero  conseguir uma oportunidade no mercado nesta área.
+  ### Always looking for a new opportunity to learn!
+
+Experienced professional in visual communication, marketing and advertising, with 12 years of experience in several sectors. I am currently qualifying in the programming industry and looking for an opportunity to break into the market as a front-end developer.
  
 <div>
     <a href="https://instagram.com/lima.ceo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a> 
