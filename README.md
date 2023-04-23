@@ -1,4 +1,4 @@
-
+<div>
 
 <div align="center">
   <a href="https://github.com/oneprogramm">
@@ -31,6 +31,7 @@
   <a href = "mailto:greenprogramdev@gmail.com" target="_blank">
     <img align="center" alt="CSS" height="20" width="70"  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style='border-radius: 4px !important' destino="_blank"></a>
  </div>
-  <div>
+  
   ![Animação de cobra](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  
   </div>
