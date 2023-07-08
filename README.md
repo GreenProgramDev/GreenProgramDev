@@ -3,6 +3,9 @@
   <h2>Experienced professional in visual communication and marketing, <br>
     with 15 years of experience.  Currently working like software engineer, <br>
     here you found projects Front-End.</h2>
+
+<a href="https://app.daily.dev/GreenProgramDev"><img src="https://api.daily.dev/devcards/1ddc14d3d51443308aedbb7e60818eea.png?r=n2k" width="400" alt="sidney ferreira de lima's Dev Card"/></a>
+  
   <div align="center" display="flex">  
     <a href= "https://www.instagram.com/lima.ceo/" target="_blank">
       <img align="center" alt="CSS" height="30" width="120" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a> &#160;
